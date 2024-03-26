@@ -1,1 +1,1 @@
-# James-Bradley-Portfolio
+# Various data science and data analysis projects
